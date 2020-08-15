@@ -23,8 +23,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![111](src/amit-jpg/The-Dogs-World/issues/2#issue-679528360)
+![Image](images.png)
 
+
+<img src=*images/111.jpeg">
 ```
 
 
