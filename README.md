@@ -10,9 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# **Grooming**
-# **Food**
-# **Health**
+## Grooming
+## Food
+## Health
 
 - Bulleted
 - List
@@ -23,6 +23,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+![111](https://github.com/amit-jpg/The-Dogs-World/issues/1#issue-679525408)
 
 ```
 
@@ -31,6 +32,6 @@ Syntax highlighted code block
 # Themes
 
 
-# Contact
+# Contacts
 
 
