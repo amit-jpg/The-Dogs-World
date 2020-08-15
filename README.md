@@ -23,7 +23,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![111](https://github.com/amit-jpg/The-Dogs-World/issues/1#issue-679525408)
+![111](src/amit-jpg/The-Dogs-World/issues/2#issue-679528360)
 
 ```
 
